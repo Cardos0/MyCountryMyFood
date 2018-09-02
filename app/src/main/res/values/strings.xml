@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Country, My Food</string>
+    <string name="countryName">Italy</string>
+    <string name="foodName">Pizza</string>
+    <string name="foodDescription" translatable="false">@string/foodName</string>
+    <string name="flagDescription" translatable="false">@string/countryName</string>
+</resources>

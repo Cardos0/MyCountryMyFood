@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Il mio paese, il mio cibo</string>
+    <string name="countryName">Italia</string>
+    <string name="foodName">Pizza</string>s
+</resources>
